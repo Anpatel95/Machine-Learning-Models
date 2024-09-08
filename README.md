@@ -12,7 +12,7 @@ The dataset used in this project is available on [Kaggle](https://www.kaggle.com
 
 The objective of this project is to analyze the chemical properties of wines with the lowest quality rating (3) versus those with the highest quality rating (8) using various machine learning models and optimization techniques. The dataset is split into 67% for training and 33% for testing.
 
-## Authors' Model Accuracy - Default Algorithms
+## Authors' Model Accuracy - Default Hyperparameters
 
 The initial phase evaluates model performance using default hyperparameters and SMOTE (Synthetic Minority Over-sampling Technique) for oversampling.
 
@@ -24,7 +24,7 @@ The initial phase evaluates model performance using default hyperparameters and 
 | Support Vector Classifier with SMOTE oversampling | 70.0%             |
 | Logistic Regression with SMOTE oversampling  | 58.0%                   |
 
-## Phase 1 - Default Algorithms
+## Phase 1 - Default Hyperparameters
 
 This phase establishes baseline performance using different machine learning models with their default settings:
 
